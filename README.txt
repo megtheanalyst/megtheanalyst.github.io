@@ -1,4 +1,3 @@
-# 
 Welcome to my portfolio! 
 
 This readme provides an overview of my work, skills, and experience in various data-related projects, including Data Wrangling with Python, Twitter Analysis on Bitcoin, Data Exploration in SQL, Excel Projects, and Power BI Projects. I am excited to showcase my expertise in these areas and demonstrate how I can contribute to your data-driven initiatives.
