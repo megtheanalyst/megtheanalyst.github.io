@@ -1,6 +1,6 @@
-Portfolio Readme
+Welcome to my portfolio! 
 
-Welcome to my portfolio! This readme provides an overview of my work, skills, and experience in various data-related projects, including Data Wrangling with Python, Twitter Analysis on Bitcoin, Data Exploration in SQL, Excel Projects, and Power BI Projects. I am excited to showcase my expertise in these areas and demonstrate how I can contribute to your data-driven initiatives.
+This readme provides an overview of my work, skills, and experience in various data-related projects, including Data Wrangling with Python, Twitter Analysis on Bitcoin, Data Exploration in SQL, Excel Projects, and Power BI Projects. I am excited to showcase my expertise in these areas and demonstrate how I can contribute to your data-driven initiatives.
 
 About Me
 
@@ -35,21 +35,21 @@ Below is a summary of my core skills in the mentioned areas:
 - Power BI: Skilled in creating interactive dashboards and reports using Power BI, integrating data from various sources, and applying data transformations and visualizations.
 
 Relevant Work Experience
-Dangote Cement Transport, Lokoja, Kogi, Nigeria - Jan 2018 – Till Date:
+Dangote Cement Transport, Lokoja, Kogi, Nigeria - Jan 2018 – Till Date: Tyre Data Analyst
 
-Collect and analyze data on material movements within the Tyre Unit to identify patterns and trends.
-Reconcile tire issuance between fleet operations and the tire unit to ensure accurate record-keeping.
-Conduct accurate inventory taking, ensuring proper documentation and timely reporting.
-Collaborate with resident auditors to ensure compliance with tire management policies and procedures.
-Use data analysis techniques to identify opportunities for process improvement and cost optimization.
+- Collect and analyze data on material movements within the Tyre Unit to identify patterns and trends.
+- Reconcile tire issuance between fleet operations and the tire unit to ensure accurate record-keeping.
+- Conduct accurate inventory taking, ensuring proper documentation and timely reporting.
+- Collaborate with resident auditors to ensure compliance with tire management policies and procedures.
+- Use data analysis techniques to identify opportunities for process improvement and cost optimization.
 
-Dangote Cement Transport, Lokoja, Kogi, Nigeria - Aug 2017 – Dec 2017:
+Dangote Cement Transport, Lokoja, Kogi, Nigeria - Aug 2017 – Dec 2017: Fleet Analyst
 
-Managed and oversaw a fleet of trucks, ensuring efficient operations and timely delivery.
-Monitored vehicle movements and tracked performance metrics to optimize routes and schedules.
-Coordinated and scheduled maintenance and repairs for vehicles, minimizing downtime.
-Managed a team of drivers, providing guidance, training, and support.
-Implemented safety protocols and ensured compliance with regulations.
+- Managed and oversaw a fleet of trucks, ensuring efficient operations and timely delivery.
+- Monitored vehicle movements and tracked performance metrics to optimize routes and schedules.
+- Coordinated and scheduled maintenance and repairs for vehicles, minimizing downtime.
+- Managed a team of drivers, providing guidance, training, and support.
+- Implemented safety protocols and ensured compliance with regulations.
 
 Education / Certifications
 Certified IBM Data Analyst Professional, Coursera e-learning, July 2022–Sept 2022
