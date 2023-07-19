@@ -4,7 +4,7 @@ This readme provides an overview of my work, skills, and experience in various d
 
 About Me
 
-I am a passionate Data Analyst with a strong background in handling and analyzing diverse datasets. I specialize in various data manipulation and visualization techniques using Python, SQL, Excel, and Power BI. I am committed to delivering actionable insights and driving data-informed decision-making.
+I am a passionate Analytics Specialist with a strong background in handling and analyzing diverse datasets. I specialize in various data manipulation and visualization techniques using Python, SQL, Excel, and Power BI. I am committed to delivering actionable insights and driving data-informed decision-making.
 
 Projects
 
@@ -71,4 +71,4 @@ Phone: +2347035919709
 Email: gbemimargareth@yahoo.com
 LinkedIn: linkedin.com/in/margarethgbemi
 GitHub: github.com/megtheanalyst
-I am eager to connect and discuss potential collaborations or opportunities where I can contribute my skills and expertise as a Data Analyst.
+I am eager to connect and discuss potential collaborations or opportunities where I can contribute my skills and expertise as an Analytics specialist.
